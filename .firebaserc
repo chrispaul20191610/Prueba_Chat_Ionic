@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "pruebachatnc2021": {
+      "hosting": {
+        "app": [
+          "pruebachatnc2021"
+        ]
+      }
+    }
+  }
+}
